@@ -1,0 +1,10 @@
+informacoes:
+    name: "João Paulo" 
+    last: "Socorro Lima"
+    password: "test123"
+    company: house
+    address: "R.Imaginaria, 123"
+    city:  "New York"
+    zipcode: "00000"
+    phone: "(11)12345678"
+    mobile: "(11)940028922"
